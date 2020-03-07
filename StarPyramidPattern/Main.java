@@ -8,21 +8,7 @@ public class Main {
         //reverseCombinedPyramid(12);
         patternPyramidOutline(10);
 
-        /*
-        //new line \n
-        System.out.println("12345\n6789");
-        //for space
-        System.out.println("12345\t6789");
-        //remove
-        System.out.println("12345\r6789");
-        //  remove one word
-        System.out.println("12345\b6789");
-        //special character
-        System.out.println("12345\f6789");
-        //unicode
-        System.out.println("dsf\uabcdfg");
-        //for no.s \1-9
-        //System.out.println("qwer\12yu");
+      
 
 
 
@@ -30,16 +16,7 @@ public class Main {
 
 
 
-         //combinedPyramid(8);
-         /*this pyramid pattern contains reverse value spaces to print the
-         * reverse array as the print lines are even the spaces must be removed to print pattern
-         * but in odd line values the space must be introduced to create a sequence
-         *
-         *
-         * *****************************************************************
-         * the same can be applied for the pattern with opposite combined array as the major pattern sync
-         * can be introduced with the addition or reduction of spaces
-         * so the value check can be as follows*/
+         
 
 
     }

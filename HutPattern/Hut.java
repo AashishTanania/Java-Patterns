@@ -49,10 +49,14 @@ public class Hut {
             System.out.print(" ");
             for (int j = 0; j < lines; j++) {
                 if ((i == 1 || i == 2) && j > 3 && j < 11) {
-                    //do check this OR || condition to be put here in brackets
+                     //you can try and replace this if condition with 
+                    //if (i == 1 || i == 2 && j > 3 && j < 11)
+                    //or with this,  if (i == 1 || i == 2 || j > 3 && j < 11)
+                    // then you can see different styles for the 
+                    //hut or you can alter && with || see different patterns
+                    //do check this &&, || condition to be put here in brackets
                     //because it lets you know different styles for hut
-                    //must try really good if you remove the brackets see what
-                    // happens to future ashu. never forget
+                    //should try
                     //making inner door
                     System.out.print("*");
                 } else if (i == 3) {

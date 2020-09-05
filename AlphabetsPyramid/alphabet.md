@@ -1,1 +1,1 @@
-prints the pyramid contains of albhabet instead of stars(****)
+prints the pyramid containing albhabet's instead of stars(****)
